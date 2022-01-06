@@ -1,6 +1,6 @@
-Executive Summary
-
 # Graduate Certificate in Research Computing
+
+## Summary
 
 Considering the growing prevalence of interdisciplinary, cutting-edge research that relies on research computing (RC) as well as an increasingly computationally driven job market outside of the professoriat, Columbia University must produce PhDs who are ready and able to meet these needs, regardless of their career track. In offering a graduate certificate in research computing, Columbia will continue to meet the needs of world-class PhD students as they distinguish themselves with their research. Additionally, the certification process invites participating PhD students to join the interdisciplinarily minded community of scholars at Columbia, enabling new avenues for distinctive research and collaboration.
 
