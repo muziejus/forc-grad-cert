@@ -24,6 +24,40 @@ Students will meet the objectives above through four modules:
 
 
 
+## Curriculum
+
+As stated above, the curriculum would be designed and overseen by a
+faculty-led advisory board. In the absence of such a board, we propose a
+provisional curriculum, where the Foundations bootcamps are supplemented with
+longer learning modules that introduce students to research computing. 
+
+Next, at least one course for credit would be offered that is required for all
+students seeking certification. This course would establish the social and
+environmental contexts for research computing, especially surrounding research
+design and data management. Upon completing this course, students will be able
+to consider the effects of various research computing projects, including
+their own, with a critical eye toward greater accountability. A second
+required course could reposition the contextual concerns towards doing
+research computing “in public,” in the sense of how to analyze and present
+research findings with the public as an intended audience or stakeholder.
+The required instruction would also feature the Libraries’ CTL-designed course
+“Exceptional Scholarship with Research Data.”
+
+Additionally, we foresee students’ taking a number of elective courses. These
+courses come from a curated list of courses offered every year. They would not
+be offered explicitly for students pursuing the GCRC, but the faculty would
+know to expect such students in their classes.
+
+Finally, the certification process would involve a public-facing component
+tied to the student’s own research. We envision an event showcasing the work
+of the students with presentations and opportunities to host their work
+online.
+
+## Audience
+
+Whereas the Foundations bootcamps are aimed at graduate students in general,
+in the first iteration of the GCRC, we are targeting PhD students in GSAS who
+are still in the coursework phase of their 
 
 
 ## Supplemental Materials
