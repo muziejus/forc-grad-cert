@@ -22,6 +22,10 @@ Students will meet the objectives above through four modules:
 * Participation in non-credit workshops and training provided by the Libraries and/or CUIT
 * Presenting, in public, aspects of their computationally intensive doctoral research project
 
+
+
+
+
 ## Supplemental Materials
 
 ### Current state of introductory instruction in research computing at Columbia
