@@ -22,6 +22,12 @@ Students will meet the objectives above through four modules:
 * Participation in non-credit workshops and training provided by the Libraries and/or CUIT
 * Presenting, in public, aspects of their computationally intensive doctoral research project
 
+## Need
+
+During the hiring year of 2021–2022, we identified 29 assistant professor openings in earth and environmental science (climate science, geophysics, geoinformatics, etc.). Of these, 26 listings (90%) strongly prefer candidates with a research computing background and 9 (31%) require that expertise. Similarly, at Columbia, research computing fluency is a de facto requirement for graduation in earth and environmental science, but curricular opportunities for acquiring skills in RC are limited and ad hoc.
+
+DH situation....
+
 ## Curriculum
 
 As stated above, the curriculum would be designed and overseen by a faculty-led advisory board. In the absence of such a board, we propose a provisional curriculum, where the Foundations bootcamps are supplemented with longer learning modules that introduce students to research computing. 
@@ -44,6 +50,8 @@ Whereas the Foundations bootcamps are aimed at graduate students in general, in 
 ### List of research computing focused courses in 2021–2022
 
 ### Analysis of the 2022 job market for tenure-track positions in Earth Sciences and Digital Humanities
+
+(include CSVs)
 
 ### Comparable programs at peer institutions
 
