@@ -153,8 +153,7 @@ Write for Ann, Jonathan, and Carlos
 * CTL isn’t directly involved in making students more employable to be in LAC.
   Teaching teachers to be better teachers is a goal in and of itself.
  
-We are in the business of teaching people who have data how to ask questions
-about that data and prodding them to maintain a critical distance.
+We are in the business of teaching people who have data how to ask questions about that data and prodding them to maintain a critical distance.
 
 
 * What do we mean by “ethics” or “critical distance,” anyway?

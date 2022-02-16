@@ -34,15 +34,21 @@ As stated above, the curriculum would be designed and overseen by a faculty-led 
 
 First, at least one for-credit course would be a required course for all students seeking certification. This course, tentatively named “Introduction to Research Computing,” would establish the social and environmental contexts for research computing, especially surrounding research design and data management. Upon completing this course, students will be able to consider the effects of various research computing projects, including their own, with a critical eye toward greater accountability. This course would also incorporate the short, web-based course “The Whys and Hows of Exceptional Scholarship with Research Data,” prepared by the Libraries and the Columbia Center for Teaching and Learning, and funded by a Provost Interdisciplinary Teaching Award for 2021–2023.
 
-A second required course, “Research Computing in Public,” could reposition the contextual concerns towards doing research computing with an eye towards the public sphere, in the sense of analyzing and presenting research findings with the public as an intended audience or stakeholder. 
+A second required course, “Research Computing in Public,” could reposition the contextual concerns towards doing research computing in the public sphere, in the sense of analyzing and presenting research findings with the public as an intended audience or stakeholder. 
 
-Additonally, the certification process would include a public-facing project tied to the students’ own research. We envision a public event showcasing the student’s work with presentations and guidance on hosting their work online.
+Additionally, the certification process would include a public-facing project tied to the students’ own research. We envision a public event showcasing the student’s work with presentations and guidance on hosting their work online.
 
-Finally, we foresee students’ taking a number of elective courses. These courses would come from an annually generated list of courses. They would not be offered explicitly for students pursuing the GCRC, but the faculty would know to expect such students in their classes. The advisory board would oversee the collection of appropriate electives.
+We also foresee students’ taking a number of elective courses. These courses would come from an annually generated list of courses. They would not be offered explicitly for students pursuing the GCRC, but the faculty would know to expect such students in their classes. The advisory board would oversee the collection of appropriate electives.
+
+Finally, students would enrich their knowledge of RC through various workshops offered on campus, including those offered by Foundations for Research Computing and the Libraries. The content of these workshops can also be integrated into the required, for-credit courses. The workshops, however, will not be considered as sufficient instruction in how to do computational research. That is, they are supplemental to programming instruction in the for-credit curriculum and not a replacement for programming instruction.
 
 ## Audience
 
-Whereas the bootcamps are aimed at graduate students in general, in the first iteration of the GCRC, we are targeting PhD students in GSAS who are still in the coursework phase of their 
+We imagine that the initial population of interested students will be GSAS PhD students still completing their coursework, with some exceptions who are already at the proposal stage or later, enrolling with appropriate permission from their adviser(s). There is no prerequisite level of computational knowledge required. Students with no programming experience should be able to earn certification by completing the program.
+
+We seek students who are engaged in or planning a computationally driven research project as well as students eager to learn about research computing for future projects. 
+
+We also seek students who are motivated to consider the social and ethical ramifications of research computing, illustrated in their participation in the public-facing final project. 
 
 ## Supplemental Materials
 
