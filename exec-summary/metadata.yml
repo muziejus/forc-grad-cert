@@ -1,0 +1,22 @@
+---
+# General information
+title: "Proposal for a Graduate Certificate in Research Computing"
+author: 
+- name: Dennis Y. Tenen
+  affiliation: Associate Professor of English and Comparative Literature, Columbia University
+  email: dt2406@columbia.edu
+- name: Roger Creel
+  affiliation: PhD Candidate, Department of Earth and Environmental Sciences, Columbia University
+  email: rcreel@ldeo.columbia.edu
+# Bibliographic information:
+# See https://github.com/jgm/pandoc-citeproc/blob/master/man/pandoc-citeproc.1.md for details
+# bibliography: bibliography.bib
+notes-after-punctuation: true
+pdf-options:
+  font: EB Garamond
+  double-spacing: false
+  left-margin: 1in
+  right-margin: 1in
+  top-margin: 1in
+  bottom-margin: 1in
+---
