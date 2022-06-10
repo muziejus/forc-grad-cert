@@ -15,8 +15,8 @@ notes-after-punctuation: true
 pdf-options:
   font: EB Garamond
   double-spacing: false
-  left-margin: 1in
-  right-margin: 1in
-  top-margin: 1in
-  bottom-margin: 1in
+  left-margin: .75in
+  right-margin: .75in
+  top-margin: .5in
+  bottom-margin: .5in
 ---
